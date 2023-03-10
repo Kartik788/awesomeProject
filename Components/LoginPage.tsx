@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
         borderRadius: 5,
     },
     buttonText: {
-        color: 'blue',
+        color: 'orange',
         fontWeight: 'bold',
     },
 });
